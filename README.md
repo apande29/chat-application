@@ -27,7 +27,7 @@
 
 ## ✨ Bonus points covered
 - ✅ Implemented linitig on the project
-- ✅ 98% Test coverage
+- ✅ Test coverage
 
 
 ## Installation
